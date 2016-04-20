@@ -1,4 +1,4 @@
-# Input: Textovy soubor count.txt, na kazdem radku jedno cislo
+# Input: Textovy soubor souvisla_rada_cisel-input.txt, na kazdem radku jedno cislo
 # Output: Vytiskne seznam chybejicich cisel
 
 count = open("souvisla_rada_cisel-input.txt", "r");
